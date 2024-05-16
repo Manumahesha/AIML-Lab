@@ -19,3 +19,9 @@ def learn(concepts,target):
                     general_h[x][x]=specific_h[x]='?'
                     else:
                         general_h[x][x]='?'
+
+indices=[i for i ,val in enumarate(general_h)
+                                if val==(["?","?","?","?","?","?"])
+                                for i in indies:
+                                general_h.remove(["?","?","?","?","?","?"])
+                                 return specific_h,general_h
