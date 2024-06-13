@@ -31,3 +31,8 @@ def classify_new_instance(outlook,temperature,humidity,wind,encoder):
 pred=classify_new_instance("Rain","Mild","High","Strong",encoder)
 print("Prediction:",pred)
 print("Accuracy:",metrics.accuracy_score(y_test,y_pred))
+
+output
+Prediction: No
+Accuracy: 0.6
+​
