@@ -93,3 +93,6 @@ Graph_nodes = {
      
 }
 astarAlgo('A', 'J')
+
+# OUTPUT:
+# path found: ['A', 'F', 'G', 'I', 'J']
