@@ -55,7 +55,7 @@ while True:
         print("It's a draw!")
         break
 
-  output
+  output:
 | | | |
 | | | |
 | | | |
